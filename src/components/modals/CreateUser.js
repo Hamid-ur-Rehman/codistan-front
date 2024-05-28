@@ -27,7 +27,6 @@ const CrateUser = () => {
             body: JSON.stringify(data)
         })
         setIsOpen(false);
-        console.log('')
     }
 
     return (
